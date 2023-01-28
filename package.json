@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/PK-Yakkun/smoky-ui/issues"
   },
-  "homepage": "https://github.com/PK-Yakkun/smoky-ui#readme"
+  "homepage": "https://github.com/PK-Yakkun/smoky-ui#readme",
+  "devDependencies": {
+    "rollup": "^3.12.0"
+  }
 }
