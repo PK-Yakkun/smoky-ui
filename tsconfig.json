@@ -15,8 +15,5 @@
     "declarationDir": "types",
     "emitDeclarationOnly": true,
     "rootDir": "./src"
-  },
-
-  "include": ["**/*.ts", "**/*.tsx"],
-  "exclude": ["node_modules", "dist"]
+  }
 }
