@@ -23,7 +23,7 @@ export default [
       }),
       typescript({
         tsconfig: "./tsconfig.json",
-        exclude: ["**/__tests__/**"],
+        exclude: ["**/__tests__/**", "**/*.stories.*"],
       }),
     ],
     external: ["react", "react-dom", "@emotion/styled", "@emotion/react"],
