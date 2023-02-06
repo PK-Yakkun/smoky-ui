@@ -1,6 +1,6 @@
 {
   "name": "smoky-ui",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Primitive UI library with no real substance.",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
